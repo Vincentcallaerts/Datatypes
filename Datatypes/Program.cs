@@ -4,13 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Oefening2
+namespace Datatypes
 {
     class Program
     {
         static void Main(string[] args)
         {
-         
+            int getal;
+            string naam;
+            bool ja;
+            double kommagetal;
         }
     }
 }
