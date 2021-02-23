@@ -17,11 +17,12 @@ namespace Oefening2
             Console.Write("Hoeveel drankjes wil je : ");
             aantal = Convert.ToInt32(Console.ReadLine());
 
-            totaal = Math.Round(prijs * aantal);
-            Console.WriteLine($"Prijs met btw: {totaal} euro ");
+            totaal = prijs * aantal;
+            Console.WriteLine($"Prijs met btw: {totaal:F2} euro ");
             totaal = Math.Round(totaal * btw,2);
-            Console.WriteLine($"Prijs zonder btw: {totaal} euro ");
+            Console.WriteLine($"Prijs zonder btw: {totaal:F2} euro ");
             Console.ReadLine();
+            
         }
     }
 }
