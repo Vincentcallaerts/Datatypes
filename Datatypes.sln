@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening5", "Oefening5\Oefe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening6", "Oefening6\Oefening6.csproj", "{A26240A0-A742-421B-951F-E3399AE980F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 7", "Oefening 7\Oefening 7.csproj", "{13788EF7-495F-44AF-BA9D-4105C3DA0B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening 8", "Oefening 8\Oefening 8.csproj", "{F30E36EB-98DC-4CAF-AE5F-AD29ACE380DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{A26240A0-A742-421B-951F-E3399AE980F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A26240A0-A742-421B-951F-E3399AE980F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A26240A0-A742-421B-951F-E3399AE980F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13788EF7-495F-44AF-BA9D-4105C3DA0B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13788EF7-495F-44AF-BA9D-4105C3DA0B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13788EF7-495F-44AF-BA9D-4105C3DA0B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13788EF7-495F-44AF-BA9D-4105C3DA0B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30E36EB-98DC-4CAF-AE5F-AD29ACE380DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30E36EB-98DC-4CAF-AE5F-AD29ACE380DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30E36EB-98DC-4CAF-AE5F-AD29ACE380DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30E36EB-98DC-4CAF-AE5F-AD29ACE380DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
