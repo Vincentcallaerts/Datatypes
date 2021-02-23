@@ -6,8 +6,8 @@ namespace Oefening1
     {
         static void Main(string[] args)
         {
-            int getal1, getal2, oplossing1, oplossing2, oplossing3;
-            double  oplossing4, oplossing5, oplossing6;
+            int getal1, getal2, oplossing1, oplossing2;
+            double oplossing3,oplossing4, oplossing5, oplossing6;
 
             Console.Write("Wat is je eerste getal: ");
             getal1 = Convert.ToInt32(Console.ReadLine());

@@ -17,7 +17,7 @@ namespace Oefening2
             Console.Write("Hoeveel drankjes wil je : ");
             aantal = Convert.ToInt32(Console.ReadLine());
 
-            totaal = Math.Round(prijs * aantal,2);
+            totaal = Math.Round(prijs * aantal);
             Console.WriteLine($"Prijs met btw: {totaal} euro ");
             totaal = Math.Round(totaal * btw,2);
             Console.WriteLine($"Prijs zonder btw: {totaal} euro ");
