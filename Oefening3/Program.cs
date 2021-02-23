@@ -11,8 +11,8 @@ namespace Oefening3
 
             Console.Write("Hoeveel grade Fahrenheit is het momenteel: ");
             far = Convert.ToDouble(Console.ReadLine());
-            cel = Math.Round((far - 32) / 1.8);
-            Console.WriteLine($"Het is momenteel {cel} Celcius ");
+            cel = Math.Round((far - 32) / (5/9));
+            Console.WriteLine($"Het is momenteel {cel} graden Celcius ");
             Console.ReadLine();
         }
     }
